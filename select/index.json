@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サクラメント（feat. SHIKI）",
+  "base_artist": "wotaku",
+  "createdAt": "2025-12-18T07:49:00.616837Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サクラメント (feat. SHIKI)",
+      "artist": "wotaku",
+      "has_synced": false,
+      "path": "select/pl_01_サクラメント_(feat._SHIKI)_wotaku.txt"
+    }
+  ]
+}
